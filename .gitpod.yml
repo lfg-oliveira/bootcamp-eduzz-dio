@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      gcc -o olamundo olamundo.c 
+    command: |
+      ./olamundo
